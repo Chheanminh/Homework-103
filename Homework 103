@@ -1,0 +1,13 @@
+<IDOCTYPE html>
+<html>
+    <Head>
+        <title>
+            <h1>Computer</h1>
+        </title>
+    </Head>
+    <body>
+        <h1>University of Cambodia</h1>
+        <p>My first paragraph.</p>
+        <img src="https://images.pexels.com/photos/29782661/pexels-photo-29782661/free-photo-of-beautiful-kyoto-yasaka-pagoda-in-historic-district.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="">
+    </body>
+</html>
